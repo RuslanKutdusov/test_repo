@@ -4,4 +4,8 @@ next release
 developing new version
 feature added
 feature bug fixed
+<<<<<<< HEAD
+>>>>>>> develop
+=======
+again new version
 >>>>>>> develop
