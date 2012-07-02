@@ -1,2 +1,3 @@
 developing new version
 feature added
+feature bug fixed
